@@ -1,0 +1,6 @@
+projectKey=myproject
+serverUrl=http://192.168.206.128:9000
+serverVersion=9.9.8.100196
+dashboardUrl=http://192.168.206.128:9000/dashboard?id=myproject
+ceTaskId=AZuJJJyLQxpjhBOvOCpu
+ceTaskUrl=http://192.168.206.128:9000/api/ce/task?id=AZuJJJyLQxpjhBOvOCpu
